@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">chat</string>
+    <string name="facebook_app_id">3396176600595673</string>
+    <string name="facebook_client_token">32f6e2ff7dfa21ad6bd24f9c9d95ae54</string>
 </resources>
